@@ -244,7 +244,7 @@ The agent has built-in knowledge about:
 
 **Samoda De Silva**  
 *Data Science Student*  
-*Assignment: AI Agent Development — Aviation Domain*
+*AI Agent Development — Aviation Domain*
 
 ---
 
