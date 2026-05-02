@@ -147,7 +147,7 @@ OPENWEATHER_API_KEY=your-key-here        # Optional
 streamlit run app.py
 ```
 
-Open your browser to: **http://localhost:8501**
+Open your browser to: **(https://aviation-ai-agent-hvklqfksaunmrdj2jmuaqb.streamlit.app/)**
 
 ---
 
