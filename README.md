@@ -148,7 +148,7 @@ streamlit run app.py
 ```
 
 Open your browser to: **(https://aviation-ai-agent-hvklqfksaunmrdj2jmuaqb.streamlit.app/)**
-Check out in: **https://youtube.com/shorts/SGjqt7Td6ow?feature=share**
+Check out in: **https://youtube.com/shorts/KyX6PXKyj1Q?si=NiVuxDTljskG_rTA**
 
 
 ---
